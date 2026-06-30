@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4c0066/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部二
+  hash: sha256:12d8190cadcf5eac3a9a3b81ae053c873dee29480bf15c1526bdc2f7417fab40
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4c0066_WYG_000-1a, image: WYG1079/WYG1079-0079a.png}
+body:
+  text: 追昔遊集别集類一唐提要臣等謹案追昔遊集三巻唐李紳撰紳字公垂亳州人元和元年進士武宗時為中書侍即同中書門下平章事事蹟具唐書本傳此集皆其未為相時所作晁公武讀書志載前有開成戊午八月紳自序此本無之詩凡一百一首新唐書本傳所載貶端州司馬禱神灘漲及㓨夀州虎不為暴為河南尹惡少斂迹皆語出此集史傳事須寔録而宋祁以紳所自言者為據殊乖徵信之義且考紳之赴端州也在夏秋之間其妻子舟行十月始至其時灘水減矣故以書祝媪龍祠而江復漲紳詩内及所自注者如此祁乃以為紳自度嶺時事是閲其集亦未審後儒以名之輕重為文之是非必謂新書勝舊書似非篤論也紳與李徳裕元稹號三俊白居易亦有笑勸迂辛酒閒吟短李詩句今觀此集音節嘽緩似不能與同時諸人角爭強弱然舂容恬雅無雕琢細碎之習其格究在晩唐諸人刻畫纖巧之上也乾隆四十三年五月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:ab4b6911dea107c6fc55a7f8e7a47e5d40e11bbfaed0d8b514c1ced70528509d
+metadata:
+  title: 追昔遊集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:48:17.090808'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4c0066/KR4c0066_000.txt
+hash: sha256:50b41b600e8893c3a452e9506f57e6aa646e987b3a26b09fa8e0ca48c813408a
